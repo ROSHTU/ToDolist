@@ -24,4 +24,4 @@ To use the Task Manager To-Do List Web App, simply clone the repository and open
 
 ```bash
 git clone https://github.com/ROSHTU/ToDolist.git
-cd task-manager-todo-list
+cd ToDolist
