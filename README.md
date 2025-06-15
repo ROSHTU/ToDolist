@@ -18,6 +18,24 @@ This Task Manager To-Do List Web App is a simple yet powerful tool to help you o
 - **Sort Tasks:** Use the sorting options to organize tasks by color or priority.
 - **Dark Mode:** Toggle the dark mode option to switch between light and dark themes.
 
+## Screen Snippets
+
+Home Page
+![image](https://github.com/user-attachments/assets/a351f41d-b628-43db-b316-d84e1de232fc)
+Adding Tasks
+![image](https://github.com/user-attachments/assets/7326026e-d1f3-414b-b3dd-eb0fccc10090)
+Sorting Options
+![image](https://github.com/user-attachments/assets/a89b1d12-8e32-4993-bda1-c4022d6010d5)
+Sorting Early To Do
+![image](https://github.com/user-attachments/assets/20070074-b09d-4cfe-a11a-b48be411cae4)
+Night Mode
+![image](https://github.com/user-attachments/assets/94d173cd-a18e-45fb-90f1-368132b3331e)
+
+
+
+
+
+
 ## Installation
 
 To use the Task Manager To-Do List Web App, simply clone the repository and open the `index.html` file in your browser.
@@ -25,3 +43,4 @@ To use the Task Manager To-Do List Web App, simply clone the repository and open
 ```bash
 git clone https://github.com/ROSHTU/ToDolist.git
 cd ToDolist
+
